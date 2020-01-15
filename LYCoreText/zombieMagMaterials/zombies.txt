@@ -9,7 +9,9 @@ Fantasy-themed shows such as Buffy the Vampire Slayer and The X-Files sometimes 
 
 <font color="red" strokeColor="none" face="American Typewriter">The night of the living dead
 <font color="black" strokeColor="blue" face="Palatino">
-Night of the Living Dead is a 1968 American independent black-and-white zombie film and cult film directed by George A. Romero. It premiered on October 1, 1968, and was completed on a USD$114,000 budget. After decades of cinematic re-releases, it grossed $12 million domestically and $18 million internationally. Night of the Living Dead was heavily criticized during its release because of its explicit content. However, it eventually received critical acclaim and was selected by the Library of Congress for preservation in the National Film Registry as a film deemed "culturally, historically or aesthetically significant."
+Night of the Living Dead is a 1968 American independent black-and-white zombie film and cult film directed by George A. Romero. It premiered on October 1, 1968, and was completed on a USD$114,000 budget. After decades of cinematic re-releases, it grossed $12 million domestically and $18 million internationally. Night of the Living Dead
+<img src="icon_qyls.png" width="114" height="30">
+    was heavily criticized during its release because of its explicit content. However, it eventually received critical acclaim and was selected by the Library of Congress for preservation in the National Film Registry as a film deemed "culturally, historically or aesthetically significant."
 
 <img src="zombie2.jpg" width="320" height="240">
 

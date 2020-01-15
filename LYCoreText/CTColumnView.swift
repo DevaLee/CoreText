@@ -11,6 +11,7 @@ import CoreText
 class CTColumnView: UIView {
 
     var ctFrame: CTFrame!
+    var images:[(image: UIImage, frame: CGRect)] = []
 
     required init?(coder: NSCoder) {
         super.init(coder: coder)!
@@ -32,7 +33,17 @@ class CTColumnView: UIView {
         context.translateBy(x: 0, y: bounds.size.height)
         context.scaleBy(x: 1.0, y: -1.0)
 
+       
         CTFrameDraw(ctFrame, context)
+        for imageData in images {
+            if let image = imageData.image.cgImage {
+                let imgBounds = imageData.frame
+                context.draw(image, in: imgBounds)
+                
+            }
+        }
+        
+         
     }
 
 

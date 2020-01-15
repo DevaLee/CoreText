@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4FC4831323CF026F007E8990 /* icon_qyls.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC4831223CF026F007E8990 /* icon_qyls.png */; };
 		89284D1F23CE01040061D406 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89284D1E23CE01040061D406 /* AppDelegate.swift */; };
 		89284D2123CE01040061D406 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89284D2023CE01040061D406 /* SceneDelegate.swift */; };
 		89284D2323CE01040061D406 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89284D2223CE01040061D406 /* ViewController.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4FC4831223CF026F007E8990 /* icon_qyls.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_qyls.png; sourceTree = "<group>"; };
 		89284D1B23CE01040061D406 /* LYCoreText.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LYCoreText.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89284D1E23CE01040061D406 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89284D2023CE01040061D406 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				89284D5123CE01DE0061D406 /* zombies.txt */,
+				4FC4831223CF026F007E8990 /* icon_qyls.png */,
 				89284D5223CE01DE0061D406 /* zombie1.jpg */,
 				89284D5323CE01DE0061D406 /* zombie2.jpg */,
 				89284D5423CE01DE0061D406 /* zombie3.jpg */,
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				89284D2B23CE01050061D406 /* LaunchScreen.storyboard in Resources */,
+				4FC4831323CF026F007E8990 /* icon_qyls.png in Resources */,
 				89284D2823CE01050061D406 /* Assets.xcassets in Resources */,
 				89284D5523CE01DE0061D406 /* zombies.txt in Resources */,
 				89284D2623CE01040061D406 /* Main.storyboard in Resources */,
